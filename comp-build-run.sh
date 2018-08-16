@@ -4,7 +4,7 @@ if [[ $# != 1 ]]; then
 fi
 
 # entering the folder passed
-cd /programming-exercises/$1
+cd programming-exercises/$1
 echo "Currently in..."
 pwd
 
