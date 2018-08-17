@@ -1,2 +1,2 @@
-# algo-coursera
+# algo-coursera [In progress]
 Algorithms course from princeton-coursera
