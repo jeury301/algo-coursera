@@ -1,2 +1,2 @@
-# algo-coursera
-Algorithms course from princeton-coursera
+# algo-stanford
+Algorithms course from stanford-lagunita
