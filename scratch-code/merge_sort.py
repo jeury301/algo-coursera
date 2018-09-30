@@ -1,5 +1,6 @@
 def merge_sort(arr):
     """Refresher implementation of merge-sort - stable.
+
     :param arr: List to sort
     :return: Sorted list
     """
@@ -16,6 +17,7 @@ def merge_sort(arr):
 
 def merge(left, righ):
     """Merging two sorted lists.
+    
     :param left: Sorted list.
     :param right: Sorted list.
     :return: A merged sorted list

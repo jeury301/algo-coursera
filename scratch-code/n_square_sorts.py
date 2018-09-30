@@ -1,5 +1,6 @@
 def selection_sort(arr):
     """Refresher implementation of selection sort - in-place & stable.
+
     :param arr: List of integers to sort
     :return: Sorted list
     """
@@ -15,6 +16,7 @@ def selection_sort(arr):
 
 def insertion_sort(arr):
     """Refresher implementation of inserstion sort - in-place & stable.
+
     :param arr: List to be sorted.
     :return: Sorted list.
     """
@@ -33,6 +35,7 @@ def insertion_sort(arr):
 
 def bubble_sort(arr):
     """Refresher implementation of buble-sort - in-place & stable.
+    
     :param arr: List to be sorted.
     :return: Sorted list.
     """
