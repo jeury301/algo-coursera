@@ -1,2 +1,2 @@
-# algo-stanford [In-progress]
+# algo-stanford
 Algorithms course from stanford-lagunita
